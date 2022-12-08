@@ -4,6 +4,8 @@ import (
 	"time"
 )
 
+// 并发版
+
 const (
 	idCheckTmCost    = 60  // 身份检查耗费时间
 	bodyCheckTmConst = 120 // 人身检查耗费时间
